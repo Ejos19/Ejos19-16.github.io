@@ -9,6 +9,9 @@ document.addEventListener("DOMContentLoaded", () => {
     { usuario: "Emma.Mendez", pass: "Tealca2026*5" },
     { usuario: "Liseth.Gar", pass: "Tealca2026*4" },
     { usuario: "Andres.Ram", pass: "Tealca2026*3" },
+    { usuario: "Migleysi.Roy", pass: "V-18951095" },
+    { usuario: "Carmen.Del", pass: "V-19738393" },
+    
     // { usuario: "Admin.Ventas", pass: "Clave2026" }
   ];
 
