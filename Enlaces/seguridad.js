@@ -5,6 +5,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const usuariosPermitidos = [
     { usuario: "Eduardo.oso", pass: "20870092" },
     { usuario: "Yanina.tor", pass: "20870092" },
+    { usuario: "Jose.criollo", pass: "V-17423374" },
     // { usuario: "Admin.Ventas", pass: "Clave2026" }
   ];
 
