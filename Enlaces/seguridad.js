@@ -88,7 +88,7 @@ document.addEventListener("DOMContentLoaded", () => {
     enlace.addEventListener("click", (e) => {
       if (!estaDesbloqueado) {
         e.preventDefault();
-        mostrarToast("Inicia sesión para acceder a las URL", "warning");
+        mostrarToast("Inicia sesión para acceder a las Herramientas", "warning");
       }
     });
   });
