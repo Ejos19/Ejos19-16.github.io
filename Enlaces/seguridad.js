@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { usuario: "Carmen.Del", pass: "V-19738393" },
     { usuario: "Marian.Per", pass: "V-18245926" },
     { usuario: "Gisbely.Man", pass: "V-18469221" },
+    { usuario: "Jose.Vall", pass: "V-17589841" },
     
     // { usuario: "Admin.Ventas", pass: "Clave2026" }
   ];
