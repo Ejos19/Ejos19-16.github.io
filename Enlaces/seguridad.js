@@ -59,7 +59,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // ==========================================================================
   function bloquearSistema() {
     estaDesbloqueado = false;
-    textoBoton.textContent = "Desbloqueo";
+    textoBoton.textContent = "Login";
     if (iconoCandado) iconoCandado.className = "fa-solid fa-lock";
 
     enlaces.forEach((enlace) => {
