@@ -14,6 +14,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { usuario: "Marian.Per", pass: "V-18245926" },
     { usuario: "Gisbely.Man", pass: "V-18469221" },
     { usuario: "Jose.Vall", pass: "V-17589841" },
+    { usuario: "Margileny.Bri", pass: "V-12031157" },
     
     // { usuario: "Admin.Ventas", pass: "Clave2026" }
   ];
